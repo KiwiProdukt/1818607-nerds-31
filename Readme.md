@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Николай](https://up.htmlacademy.ru/htmlcss/31/user/1818607).
-* Наставник: [Александр Румянцев] (https://htmlacademy.ru/profile/id1521451).
+* Наставник: [Александр Румянцев](https://htmlacademy.ru/profile/id1521451).
 
 ---
 
